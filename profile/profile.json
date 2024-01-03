@@ -1,0 +1,22 @@
+{
+  "name": "Cyberpunk Seoul",
+  "selectionBackground": "#dc72fa",
+  "background": "#483D8B",
+  "foreground": "#f7e3f7",
+  "black": "#2F4F4F",
+  "red": "#BC8F8F",
+  "green": "#6B8E23",
+  "yellow": "#DAA520",
+  "blue": "#6495ED",
+  "purple": "#9370DB",
+  "cyan": "#40E0D0",
+  "white": "#FFFFF0",
+  "brightBlack": "#696969",
+  "brightRed": "#FFB6C1",
+  "brightGreen": "#98FB98",
+  "brightYellow": "#FFDAB9",
+  "brightBlue": "#EA549F",
+  "brightPurple": "#DDA0DD",
+  "brightCyan": "#AFEEEE",
+  "brightWhite": "#F5F5F5"
+}
