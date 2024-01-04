@@ -1,7 +1,7 @@
 # Cyberpunk Seoul - Windows Terminal Theme
 
 ## Introduction
-
+![the preview image of theme](./assets/preview.png)
 'Cyberpunk Seoul' is a theme for Windows Terminal that combines cyberpunk aesthetics with the unique ambiance of Seoul. This theme features a color scheme inspired by neon lights and the urban landscape of Seoul, fused with the futuristic and digital feel of cyberpunk culture. It's designed to enhance your terminal experience with a stylish and immersive environment.
 
 ## Installation
