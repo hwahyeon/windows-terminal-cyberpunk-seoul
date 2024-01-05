@@ -2,7 +2,7 @@
 
 ## Introduction
 ![the preview image of theme](./assets/preview.png)
-'Cyberpunk Seoul' is a theme for Windows Terminal that combines cyberpunk aesthetics with the unique ambiance of Seoul. This theme features a color scheme inspired by neon lights and the urban landscape of Seoul, fused with the futuristic and digital feel of cyberpunk culture. It's designed to enhance your terminal experience with a stylish and immersive environment.
+'**Cyberpunk Seoul**' is a theme for Windows Terminal that combines cyberpunk aesthetics with the unique ambiance of Seoul.
 
 ## Installation
 
@@ -38,25 +38,24 @@ Example of adding the theme to your settings:
 }
 ```
 
-4. (Optional for the Background Image) Download the `profile\background.png` image provided in this repository and place in LocalState where settings JSON file is located.
-And add or modify the following properties within the profile settings:
+4. (Optional for the Background Image) Download the `profile\background.png` image provided in this repository and place it in LocalState where the settings JSON file is located.
+Add or modify the following properties within the profile settings:
 
 ```json
 "profiles": {
-"list": [
-    {
-        // ... profile details ...
-        "colorScheme": "Cyberpunk Seoul",
-        "padding":"15, 8, 8, 8",
-        "backgroundImage": "ms-appdata:///Local/background.png",
-        "backgroundImageAlignment": "bottomRight",
-        "backgroundImageOpacity": 0.1,
-        "backgroundImageStretchMode": "none"
-    }
-]
+    "list": [
+        {
+            // ... profile details ...
+            "colorScheme": "Cyberpunk Seoul",
+            "padding":"15, 8, 8, 8",
+            "backgroundImage": "ms-appdata:///Local/background.png",
+            "backgroundImageAlignment": "bottomRight",
+            "backgroundImageOpacity": 0.1,
+            "backgroundImageStretchMode": "none"
+        }
+    ]
 }
 ```
-
 
 ## License
 This theme is distributed under the GNU General Public License v3.0 (GPL-3.0). See `LICENSE` for more information.
